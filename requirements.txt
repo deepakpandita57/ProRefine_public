@@ -1,0 +1,13 @@
+pandas
+transformers
+datasets
+accelerate
+scikit-learn
+scipy
+textgrad
+trl==0.11.4
+peft
+evaluate
+flash-attn
+argparse
+omegaconf
